@@ -7,9 +7,9 @@
 **以下版本号以android版为准，ios版本号不同**  
 **1.0.2**[下载](https://github.com/blinker-iot/app-release/releases/download/1.0.2/blinker-1.0.2.apk)  
 更新内容：  
-1.添加场景开关功能
-2.添加开发工具>esptouch功能
-3.优化若干细节
+1.添加场景开关功能  
+2.添加开发工具>esptouch功能  
+3.优化若干细节  
 4.修复若干bug  
 <br>
 **1.0.1**[下载](https://github.com/blinker-iot/app-release/releases/download/1.0.1-beta/blinker-1.0.1-beta.apk)  
