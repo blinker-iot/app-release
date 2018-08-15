@@ -4,7 +4,13 @@
 [app store安装](https://itunes.apple.com/cn/app/id1357907814)  
 [github下载](https://github.com/blinker-iot/app-release/releases)  
 ## 更新记录  
-**以下版本号以android版为准，ios版本号不同**  
+**以下版本号以android版为准，ios版本号不同** 
+**2.0.1-beta**[下载](https://github.com/blinker-iot/app-release/releases/download/2.0.1-beta/blinker2.0.1-beta.apk)  
+==2.x版本app需配合blinker lib 2.x版本使用==  
+1.重制UI  
+2.重写了界面编辑器  
+3.修复若干小问题  
+<br>
 **1.0.2**[下载](https://github.com/blinker-iot/app-release/releases/download/1.0.2/blinker-1.0.2.apk)  
 更新内容：  
 1.添加场景开关功能  
