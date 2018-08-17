@@ -3,10 +3,20 @@
 [Google play安装](https://play.google.com/store/apps/details?id=iot.clz.me)  
 [app store安装](https://itunes.apple.com/cn/app/id1357907814)  
 [github下载](https://github.com/blinker-iot/app-release/releases)  
+[bug提交](https://www.arduino.cn/thread-81133-1-1.html)  
 ## 更新记录  
-**以下版本号以android版为准，ios版本号不同** 
+**以下版本号以android版为准，ios版本号不同**  
+
+**2.0.1**[下载](https://github.com/blinker-iot/app-release/releases/download/2.0.1/blinker-2.0.1.apk)  
+== 2.x版本app需配合blinker lib 2.x版本使用 ==  
+1.新UI  
+2.新的DIY布局器  
+3.添加了定时功能  
+4.优化诸多细节  
+5.修复诸多bug  
+<br>
 **2.0.1-beta**[下载](https://github.com/blinker-iot/app-release/releases/download/2.0.1-beta/blinker2.0.1-beta.apk)  
-==2.x版本app需配合blinker lib 2.x版本使用==  
+== 2.x版本app需配合blinker lib 2.x版本使用 ==  
 1.重制UI  
 2.重写了界面编辑器  
 3.修复若干小问题  
