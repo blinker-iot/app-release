@@ -10,8 +10,8 @@
 == 2.x版本app需配合blinker lib 2.x版本使用 ==  
 1.MQTT数据合并发送，现在是MQTT接入，所有动作都会延迟300ms发送，300ms内如果触发其他动作，数据将会合并成一条消息发送  
 2.在设备控制面板页面，MQTT连接的设备每59秒会进行一次状态查询，WiFi连接的设备每29秒会进行一次状态查询  
-3.意外断网后，可以自动重连了
-4.修复设备拖拽排序无法保存的bug
+3.意外断网后，可以自动重连了  
+4.修复设备拖拽排序无法保存的bug  
 5.修复其他bug  
 <br>
 **2.0.1**[下载](https://github.com/blinker-iot/app-release/releases/download/2.0.1/blinker-2.0.1.apk)  
