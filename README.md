@@ -6,6 +6,13 @@
 [bug提交](https://www.arduino.cn/thread-81133-1-1.html)  
 ## 更新记录  
 **以下版本号以android版为准，ios版本号不同**  
+**2.0.3**[下载](https://github.com/blinker-iot/app-release/releases/download/2.0.2-beta/blinker-2.0.3-beta.apk)  
+0.现在MQTT在局域网中会自动切换到局域网通信，局域网通信没有发送频率限制  
+1.添加首页deviceblock开关返回声音震动  
+2.添加定时同步提示  
+3.添加不在线无法使用定时提示  
+4.修复了个别bug  
+<br>
 **2.0.2**[下载](https://github.com/blinker-iot/app-release/releases/download/2.0.2/blinker-2.0.2.apk)  
 == 2.x版本app需配合blinker lib 2.x版本使用 ==  
 1.MQTT数据合并发送，现在是MQTT接入，所有动作都会延迟300ms发送，300ms内如果触发其他动作，数据将会合并成一条消息发送  
