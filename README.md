@@ -6,7 +6,11 @@
 [bug提交](https://www.arduino.cn/thread-81133-1-1.html)  
 ## 更新记录  
 **以下版本号以android版为准，ios版本号不同**  
-**2.0.3**[下载](https://github.com/blinker-iot/app-release/releases/download/2.0.2-beta/blinker-2.0.3-beta.apk)  
+**2.0.4-beta**[下载](https://github.com/blinker-iot/app-release/releases/download/2.0.4-beta/blinker-2.0.4-beta.apk)  
+重新开放了场景控制功能，可以通过添加场景按键，一键控制多个设备。  
+[使用方法](https://doc.blinker.app/?file=005-App%E4%BD%BF%E7%94%A8/05-%E5%9C%BA%E6%99%AF%E6%8E%A7%E5%88%B6)  
+<br>
+**2.0.3**[下载](https://github.com/blinker-iot/app-release/releases/download/2.0.3-beta/blinker-2.0.3-beta.apk)  
 0.现在MQTT在局域网中会自动切换到局域网通信，局域网通信没有发送频率限制  
 1.添加首页deviceblock开关返回声音震动  
 2.添加定时同步提示  
