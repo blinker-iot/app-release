@@ -29,5 +29,6 @@ sortablejs
 chart.js  
 android-versions  
 
+**由于版本更新频繁，个别项目可能没有及时添加，望理解，如有发现可告知我们**  
 
 
