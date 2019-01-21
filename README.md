@@ -4,6 +4,10 @@ blinker是一套跨硬件、跨平台的物联网解决方案，提供APP端、�
 当然blinker的目标不仅仅不如，更多功能陆续更新    
 ![blinker app端](https://github.com/blinker-iot/app-release/raw/master/blinker-app.png)  
 
+## 系统要求  
+最低版本需求：android 5.0  
+建议使用版本：>=android 6.0  
+
 ## 开源app  
 开源版本的APP预计2019年2月提供，计划移除服务器端，方便大家二次开发  
 
