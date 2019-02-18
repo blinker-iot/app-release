@@ -1,6 +1,7 @@
 # 关于blinker  
 blinker是一套跨硬件、跨平台的物联网解决方案，提供APP端、设备端、服务器端支持，使用公有云服务进行数据传输存储。可用于智能家居、数据监测等领域，可以帮助用户更好更快地搭建物联网项目。  
-目前blinker的相近目标是打造一个开源的类似阿里智能、米家的智能家居解决方案  
+目前blinker开发者版本提供了一套类似阿里智能、米家的智能家居解决方案  
+blinker企业版提供了更多应用场景  
 当然blinker的目标不仅仅不如，更多功能陆续更新    
 ![blinker app端](https://github.com/blinker-iot/app-release/raw/master/blinker-app.png)  
 
