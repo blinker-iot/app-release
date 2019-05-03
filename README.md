@@ -6,11 +6,11 @@ blinker企业版提供了更多应用场景
 ![blinker app端](https://github.com/blinker-iot/app-release/raw/master/blinker-app.png)  
 
 ## 系统要求  
-最低版本需求：android 5.0  
-建议使用版本：>=android 6.0  
+最低版本需求：android 6.0  
+建议使用版本：>=android 8.0  
 
 ## 开源app  
-开源版本的APP预计2019年2月提供，计划移除服务器端，方便大家二次开发  
+计划提供开源版app，但由于经费不足，开发处于三天打鱼两天晒网状态，没有具体的时间表。  
 
 # app-release  
 ## 应用商店安装  
@@ -23,12 +23,13 @@ blinker企业版提供了更多应用场景
 
 ## 项目鸣谢  
 项目当前使用开发框架：  
-angular5、cordova8、ionic3  
+angular7、cordova8、ionic4  
 本项目使用或曾经使用过如下项目资源：  
 cordova-plugin-ble-central  
 cordova-plugin-code-push  
+cordova-plugin-appminimize  
 cordovanetworkmanager  
-cordova-plugin-smartconfig  
+cordova-plugin-esptouch  
 cordova-plugin-bdasr  
 cordova-plugin-shortcuts-android  
 cordova-plugin-zeroconf  
@@ -42,6 +43,14 @@ ng-dynamic-component
 sortablejs  
 chart.js  
 android-versions  
+f2  
+cordova-plugin-qrscanner  
+hammerjs  
+pickerjs  
+pulltorefreshjs  
+zipson  
+text-encoding  
+
 
 **由于版本更新频繁，个别项目可能没有及时添加，望理解，如有发现可告知我们**  
 
