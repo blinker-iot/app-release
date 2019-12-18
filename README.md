@@ -9,9 +9,6 @@ blinker企业版提供了更多应用场景
 最低版本需求：android 6.0  
 建议使用版本：>=android 8.0  
 
-## 开源app  
-计划提供开源版app，但由于经费不足，开发处于三天打鱼两天晒网状态，没有具体的时间表。  
-
 # app-release  
 ## 应用商店安装  
 [Google play安装](https://play.google.com/store/apps/details?id=iot.clz.me)  
@@ -22,6 +19,7 @@ blinker企业版提供了更多应用场景
 [下载&查看](https://github.com/blinker-iot/app-release/releases)  
 ## 源代码  
 [版本2.1.x](https://github.com/coloz/blinker-app)  
+计划提供一个更易开发的开源版本，但由于经费不足，开发处于三天打鱼两天晒网状态，没有具体的时间表。  
 ## 项目鸣谢  
 项目当前使用开发框架：  
 angular7、cordova8、ionic4  
