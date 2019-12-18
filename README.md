@@ -20,7 +20,8 @@ blinker企业版提供了更多应用场景
 [bug提交](https://www.arduino.cn/thread-81133-1-1.html)  
 ## 版本下载及更新记录  
 [下载&查看](https://github.com/blinker-iot/app-release/releases)  
-
+## 源代码  
+[版本2.1.x](https://github.com/coloz/blinker-app)  
 ## 项目鸣谢  
 项目当前使用开发框架：  
 angular7、cordova8、ionic4  
@@ -50,7 +51,9 @@ pickerjs
 pulltorefreshjs  
 zipson  
 text-encoding  
-
+wifiwizard2  
+swiper  
+ngx-markdown  
 
 **由于版本更新频繁，个别项目可能没有及时添加，望理解，如有发现可告知我们**  
 
