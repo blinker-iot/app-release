@@ -18,8 +18,9 @@ blinker企业版提供了更多应用场景
 ## 版本下载及更新记录  
 [下载&查看](https://github.com/blinker-iot/app-release/releases)  
 ## 源代码  
-[版本2.1.x](https://github.com/coloz/blinker-app)  
-计划提供一个更易开发的开源版本，但由于经费不足，开发处于三天打鱼两天晒网状态，没有具体的时间表。  
+本App源码见[这里](https://github.com/coloz/blinker-app)  
+
+
 ## 项目鸣谢  
 项目当前使用开发框架：  
 angular7、cordova8、ionic4  
