@@ -23,7 +23,7 @@ blinker企业版提供了更多应用场景
 
 ## 项目鸣谢  
 项目当前使用开发框架：  
-angular7、cordova8、ionic4  
+angular9、cordova8、ionic5  
 本项目使用或曾经使用过如下项目资源：  
 cordova-plugin-log2c-aliyun-push  
 cordova-plugin-ble-central  
